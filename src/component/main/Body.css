@@ -1,0 +1,33 @@
+.header {
+    position: relative;
+    width: 347px;
+    height: 40px;
+    left: 36px;
+    top: 160px;
+
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 110%;
+    color: #000000;
+
+}
+
+.des{
+    position: relative;
+    width: 320px;
+    height: 56px;
+    left: 36px;
+    top: 156px;
+
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 110%;
+    /* or 18px */
+
+
+    color: #222222;
+}

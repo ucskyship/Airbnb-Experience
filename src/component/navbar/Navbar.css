@@ -1,0 +1,19 @@
+.logo {
+    position: relative;
+    width: 82px;
+    height: 25px;
+    left: 30px;
+    top: 22px;
+
+}
+
+.navbar {
+    position: relative;
+    height: 70px;
+    left: 0;
+    top: 0;
+
+
+    background: #FFFFFF;
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.1);
+}
